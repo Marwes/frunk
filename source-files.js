@@ -1,0 +1,13 @@
+var N = null;var sourcesIndex = {};
+sourcesIndex["frunk"] = {"name":"","dirs":[],"files":["lib.rs","monoid.rs","semigroup.rs","validated.rs"]};
+sourcesIndex["frunk_core"] = {"name":"","dirs":[],"files":["coproduct.rs","generic.rs","hlist.rs","indices.rs","labelled.rs","lib.rs","macros.rs","path.rs","traits.rs","tuples.rs"]};
+sourcesIndex["frunk_derives"] = {"name":"","dirs":[],"files":["derive_generic.rs","derive_labelled_generic.rs","lib.rs"]};
+sourcesIndex["frunk_proc_macro_helpers"] = {"name":"","dirs":[],"files":["lib.rs"]};
+sourcesIndex["frunk_proc_macros"] = {"name":"","dirs":[],"files":["lib.rs"]};
+sourcesIndex["frunk_proc_macros_impl"] = {"name":"","dirs":[],"files":["lib.rs"]};
+sourcesIndex["proc_macro2"] = {"name":"","dirs":[],"files":["fallback.rs","lib.rs","strnom.rs","wrapper.rs"]};
+sourcesIndex["proc_macro_hack"] = {"name":"","dirs":[],"files":["lib.rs"]};
+sourcesIndex["quote"] = {"name":"","dirs":[],"files":["ext.rs","lib.rs","to_tokens.rs"]};
+sourcesIndex["syn"] = {"name":"","dirs":[{"name":"gen","dirs":[],"files":["gen_helper.rs"]}],"files":["attr.rs","buffer.rs","data.rs","derive.rs","error.rs","export.rs","expr.rs","ext.rs","generics.rs","group.rs","ident.rs","keyword.rs","lib.rs","lifetime.rs","lit.rs","lookahead.rs","mac.rs","macros.rs","op.rs","parse.rs","parse_macro_input.rs","parse_quote.rs","path.rs","print.rs","punctuated.rs","span.rs","spanned.rs","thread.rs","token.rs","ty.rs"]};
+sourcesIndex["unicode_xid"] = {"name":"","dirs":[],"files":["lib.rs","tables.rs"]};
+createSourceSidebar();
